@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "Luxury_Products_Apparel_Data.csv",
+				"fileName": "flipkart_com-ecommerce_sample.csv",
 				"container": "kaggleds"
 			},
 			"columnDelimiter": ",",
