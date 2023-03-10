@@ -9,7 +9,9 @@
 		"type": "DelimitedText",
 		"typeProperties": {
 			"location": {
-				"type": "AzureBlobStorageLocation"
+				"type": "AzureBlobStorageLocation",
+				"fileName": "Luxury_Products_Apparel_Data.csv",
+				"container": "kaggleds"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
